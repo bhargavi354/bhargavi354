@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Bhargavi 👋
 
-<!--
-**bhargavi354/bhargavi354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | React | JavaScript | Java | SQL
 
-Here are some ideas to get you started:
+I help fix React.js bugs and JavaScript issues quickly and professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Freelance Services
+
+I fix:
+
+- React.js bugs
+- JavaScript errors
+- UI / frontend issues
+- Broken functionality
+- React component problems
+
+🔗 Fiverr Gig:  
+https://www.fiverr.com/bhargavi_dev/build-a-responsive-react-website-or-fix-javascript-bugs
+
+---
+
+## 🚀 Tech Stack
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Java
+- SQL
+- Node.js
+- Express
+
+---
+
+## 📌 Projects
+
+### Hospital Management System
+React + Node.js + Express + SQLite
+
+### Pizza Bill Generator
+Java based billing application
+
+---
+
+⭐ I focus on writing clean code and delivering quality work on time.
